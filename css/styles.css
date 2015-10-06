@@ -1,0 +1,22 @@
+body {
+	background-color: #FFE;
+	border-style: solid;
+	padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25;
+}
+
+body > h3, body > p:nth-child(3)  {
+	color: #887;
+	font-style: italic;
+}
+
+body > p:nth-child(12) > a {
+	color: #900;
+}
+
+img {
+	border-style: solid;
+	height: 300px;
+	width: 400px;
+}
