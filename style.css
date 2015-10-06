@@ -1,0 +1,37 @@
+html {
+	border: black solid;
+}
+
+body {
+	background-color: #FFE;
+}
+
+.grandma {
+	color: #887;
+	font-style: italic;
+}
+a {
+	color: #900;
+}
+
+#picOne, #picTwo {
+	border: solid 5px;
+	border-color: black;
+	height: 300px;
+	width: 500px;
+	display: none;
+	position: absolute;
+}
+
+#pics {
+	width: 500px;
+	height: 300px;
+}
+
+h1 {
+	font-style: bold;
+}
+
+h2 {
+	font-family: verdana;
+}
