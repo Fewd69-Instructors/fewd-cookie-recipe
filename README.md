@@ -1,2 +1,2 @@
-# FEWD69 Homework Assignment #1
+# FEWD69
 ## fewd-cookie-recipe
